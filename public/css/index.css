@@ -1,0 +1,57 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{ 
+    background-color: rgb(199, 30, 72);
+}
+
+nav img{
+    margin-left: 20px;
+}
+
+.navbar-nav{
+    margin-left: 150px;
+}
+
+.nav-link{
+    width: 90px;
+    margin-left: 30px;
+    color: aliceblue;
+    font-weight: 500;
+}
+
+.container-title{
+    color: rgb(69, 59, 59);
+    background-color: rgba(234, 233, 224, 0.798);  
+    text-align: center;
+    padding: 10px;
+}
+
+.container-title h3{
+    font-weight: bolder;
+}
+
+.container-filter{
+    margin: 30px;
+    
+}
+
+.container p{
+    margin:0;
+}
+
+.card{
+    box-shadow: 10px 10px 5px rgb(220, 220, 220);
+}
+
+.container img{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 100px;
+}
+
+.form{
+    border-radius: 0%;
+    margin-bottom: 100px;  
+}
