@@ -23,7 +23,7 @@ nav img{
 
 .container-title{
     color: rgb(69, 59, 59);
-    background-color: rgba(234, 233, 224, 0.798);  
+    background-color: rgba(234, 233, 224, 0.443);  
     text-align: center;
     padding: 10px;
 }
@@ -32,6 +32,12 @@ nav img{
     font-weight: bolder;
 }
 
+.dropdown button{
+    border: solid 1px  rgb(229, 229, 229);
+    border-radius: 0%;
+    
+    
+}
 .container-filter{
     margin: 30px;
     
@@ -42,7 +48,8 @@ nav img{
 }
 
 .card{
-    box-shadow: 10px 10px 5px rgb(220, 220, 220);
+    box-shadow: 10px 10px 5px rgba(220, 220, 220, 0.582);
+    border-radius: 0%;
 }
 
 .container img{
@@ -54,4 +61,13 @@ nav img{
 .form{
     border-radius: 0%;
     margin-bottom: 100px;  
+}
+
+.form input{
+    margin-right: 10px;
+    border: solid 1px  rgb(229, 229, 229);
+}
+.form a{
+    border-radius: 0%;
+    padding: 2px 20px;
 }
